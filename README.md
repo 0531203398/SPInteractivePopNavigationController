@@ -1,4 +1,4 @@
-a..## SPInteractivePopNavigationController
+aa..## SPInteractivePopNavigationController
 
 SPInteractivePopNavigationController is navigation controller with an interactive transition which tries to mimic the default behavior of iOS 7.
 
